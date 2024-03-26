@@ -27,3 +27,6 @@ OPENAI_API_KEY
 OPENAI_ORG
 
 Create your method to query openAI API, similar to what was used in the main.py file
+
+// LINK TO YOUTUBE VIDEO PREVIEWING SOME AI FEATURES //
+https://youtu.be/opYu4ZtorUw
